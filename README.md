@@ -2,7 +2,7 @@
 
 1. `yarn install`
 
-2. `copy Contract to contracts folder`
+2. `copy your contract (`*.sol`) to contracts folder`
 
 3. `yarn hardhat compile`
 
