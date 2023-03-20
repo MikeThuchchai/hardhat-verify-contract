@@ -45,6 +45,14 @@ const config: HardhatUserConfig = {
           browserURL: "https://reiscan.com/",
         },
       },
+      {
+        network: "polygon",
+        chainId: 137,
+        urls: {
+          apiURL: "https://api.polygonscan.com/api",
+          browserURL: "https://polygonscan.com/",
+        },
+      },
     ],
   },
   solidity: "0.8.17",
